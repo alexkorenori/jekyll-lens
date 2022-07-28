@@ -1,6 +1,6 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "Test website"
 # The description of the website
 description: "A Jekyll theme for photographers and photo bloggers."
 # Keywords/tags for you site.
@@ -10,20 +10,20 @@ copyright: "Copyright &copy; 2017 - Elastic Designs."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Alex Korenori"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "Intercultural Communicator, Negotiator"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "Photograph archive from Twitter"
 social:
   # Your Twitter username.
-  twitter_username: ""
+  twitter_username: "alexkorenori"
   # Your Facebook username.
   facebook_username: ""
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: "alexkorenori"
   # Your email address.
   email: ""
 
